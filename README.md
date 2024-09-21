@@ -53,14 +53,14 @@ xx High xx Medium xx QA Reports
 
 
 
-## Secure3  ![image](https://hackmd.io/_uploads/S1nvuN3pR.png =10%x)
+## Secure3  
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
 |      |      |      |📝|
 
 
-## Cantina  ![image](https://hackmd.io/_uploads/r1nbFNhaA.png =30%x)
+## Cantina  
 
 
 | Contest |High |Medium | Security Report |

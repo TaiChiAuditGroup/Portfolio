@@ -1,5 +1,5 @@
+![Alt text](taichi.png)
 
-![Alt text](taichi-white.png)
 #  CTF (Capture the Flag) Achievements
 
 # Competitive Audit Platform

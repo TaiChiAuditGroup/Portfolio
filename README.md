@@ -1,5 +1,5 @@
-![taichii](https://hackmd.io/_uploads/SkqUWB_60.png)
 
+![Alt text](taichi-white.png)
 #  CTF (Capture the Flag) Achievements
 
 # Competitive Audit Platform
@@ -9,7 +9,7 @@ Total : xx  competitions
 xx High xx Medium xx QA Reports
 
 
-## Code4rena ![image](https://hackmd.io/_uploads/B1grONnaA.png =30%x)
+## Code4rena 
 
 
 | Contest |High |Medium | Security Report |
@@ -43,7 +43,8 @@ xx High xx Medium xx QA Reports
 
 
 
-## CodeHawks ![image](https://hackmd.io/_uploads/BJiH_E36A.png =10%x)
+## CodeHawks 
+
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |

@@ -48,7 +48,8 @@ xx High xx Medium xx QA Reports
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
-|   The Standard   |  --    |  2M    |📝|
+|   TempleGold   |  1    |  0    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/temple-gold/temple-gold.md)|
+|   Tadle   |  4    |  2    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/tadle/tadle.md)|
 
 
 
@@ -57,7 +58,7 @@ xx High xx Medium xx QA Reports
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
-|      |      |      |📝|
+|    Zeeknetwork  |   0   |   3   |📝|
 
 
 ## Cantina  
@@ -65,4 +66,7 @@ xx High xx Medium xx QA Reports
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
-|      |      |      |📝|
+|   Goat Tech  |   1   |    3  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/goat-tech/goat-tech.md)|
+|   Yolo Games  |   0   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/yolo-games/yolo-games.md)|
+|  Arcade.xyz   |   0   |    2  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|
+|  Pegasus Usual   |   0   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/pegasus-usual/pegasus-usual.md)|

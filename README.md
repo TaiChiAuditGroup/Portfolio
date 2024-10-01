@@ -2,28 +2,28 @@
 
 # 🌟 Highlights 🌟
 > [1st place in $1.1M ZKsync Era Contest](https://code4rena.com/audits/2023-10-zksync-era)
-Identified 5/6 highs (4 solo)
+
 
 > [1st place in $300k Maia DAO Contest](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)
-Identified 14/35 highs (4 solo)
+
 
 > [1st place in $300k Arbitrum BoLD Contest](https://code4rena.com/audits/2024-05-arbitrum-bold)
-Identified 2/2 highs
 
-> 1st place in [Arcadexyz Contest](https://x.com/cantinaxyz/status/1780354738040541307)
+
+> [1st place in Arcadexyz Contest](https://x.com/cantinaxyz/status/1780354738040541307)
 
 > 1st place in Zeeknetwork Contest 
 
 > [2nd place in 2024-06-ebtc-zap-router](https://code4rena.com/audits/2024-06-ebtc-zap-router)
 
-> 2nd place in [Usual-Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)
+> [2nd place in Usual-Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)
 
 
 # Competitive Audit Platforms Achievements
 
-## Summary
-Total : xx  competitions
-xx High xx Medium xx QA Reports
+## ✨ Summary ✨
+### Total : 60+  competitions 
+### 56+ High 75+ Medium 
 
 
 ## Code4rena 
@@ -73,6 +73,7 @@ xx High xx Medium xx QA Reports
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
+| The Standard  |--| 2M | 📝|
 |   TempleGold   |  1    |  --    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/temple-gold/temple-gold.md)|
 |   Tadle   |  4    |  2    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/tadle/tadle.md)|
 
@@ -93,19 +94,19 @@ xx High xx Medium xx QA Reports
 | -------- |--------| -------- | -------- |
 |   Goat Tech  |   1   |    3  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/goat-tech/goat-tech.md)|
 |   Yolo Games  |   --   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/yolo-games/yolo-games.md)|
-|  Arcade.xyz   |   0   |    2  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|
+|  Arcade.xyz   |   --   |    2  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|
 |  Pegasus Usual   |   --   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/pegasus-usual/pegasus-usual.md)|
 
 
 #  CTF (Capture the Flag) Achievements
 
-| CTF Name | Rank | 
-| -------- | -------- | 
-| OnlyPwner    |  Ranked **#1** , **#4**, **#11** with all problems solved     | 
-|OpenZeppelin Ethernaut CTF 2024|**9th** place|
-|0xhacked & OtterSec CTF|**2nd** place with all problems solved|
-|Curta Cup in Istanbul|Rank **#1** with all problems solved.|
-| Paradigm CTF 2023| **11th** place| 
-|MEV-Share CTF organized by Flashbots|Rank **#20** with all problems solved|
-|Secureum RACE  #20|**2nd** place|
-|Secureum RACE  #27|**3rd** place place|
+| **CTF Name**                          | **Rank**                                           |
+| -------------------------------------- | -------------------------------------------------- |
+| OnlyPwner                              | Rank **#1**, **#4**, **#11** with all problems solved |
+| OpenZeppelin Ethernaut CTF 2024         | Rank **#9**                                        |
+| 0xhacked & OtterSec CTF                | Rank **#2** with all problems solved               |
+| Curta Cup in Istanbul                  | Rank **#1** with all problems solved               |
+| Paradigm CTF 2023                      | Rank **#11**                                       |
+| MEV-Share CTF organized by Flashbots   | Rank **#20** with all problems solved              |
+| Secureum RACE #20                      | Rank **#2**                                        |
+| Secureum RACE #27                      | Rank **#3**                                        |

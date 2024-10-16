@@ -1,22 +1,24 @@
 ![Alt text](taichi.png)
 
+# About TaiChi
+
+TaiChi Audit Group was incubated by the [DeFiHackLabs](https://defihacklabs.io/)  and is composed of its core white-hat members.
+
+Our team brings extensive experience in competitive audits and CTF challenges, dedicated to enhancing project security coverage and providing comprehensive protection for funds.
+
+For any security consultations or assistance, feel free to [contact us](https://docs.google.com/forms/d/14s22jxDEjYRs1syrSLUQa62FpB4qVLAgbRl6FaXtbBI/viewform?pli=1&ts=670e18d0&pli=1&edit_requested=true).
+
 # 🌟 Highlights 🌟
-> [1st place in $1.1M ZKsync Era Contest](https://code4rena.com/audits/2023-10-zksync-era)
 
-
-> [1st place in $300k Maia DAO Contest](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)
-
-
-> [1st place in $300k Arbitrum BoLD Contest](https://code4rena.com/audits/2024-05-arbitrum-bold)
-
-
-> [1st place in Arcadexyz Contest](https://x.com/cantinaxyz/status/1780354738040541307)
-
-> 1st place in Zeeknetwork Contest 
-
-> [2nd place in 2024-06-ebtc-zap-router](https://code4rena.com/audits/2024-06-ebtc-zap-router)
-
-> [2nd place in Usual-Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)
+|  Ranking | Contest                    
+|-------------------|----------------------------------|
+|🥇  1st place 🥇      | [ZKsync Era ](https://code4rena.com/audits/2023-10-zksync-era)        |
+| 🥇1st place   🥇      |  [Maia DAO ](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)       |     |
+| 🥇1st place   🥇      | [Arbitrum BoLD](https://code4rena.com/audits/2024-05-arbitrum-bold)       | 
+| 🥇1st place    🥇     | [Arcadexyz ]((https://x.com/cantinaxyz/status/1780354738040541307))             | 
+|🥇 1st place   🥇      | Zeeknetwork           | 
+| 🥈2nd place     🥈    | [Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)s  |
+| 🥈2nd place     🥈    | [Usual Pegasus Contest]((https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard))       |
 
 
 # Competitive Audit Platforms Achievements

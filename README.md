@@ -30,7 +30,6 @@ For any security consultations or assistance, feel free to [contact us](https://
 
 ## Code4rena 
 
-
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- | 
 |2024-07-munchables|1H|--|[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Code4rena/2024-07-munchables/2024-07-munchables.md)|
@@ -86,14 +85,25 @@ For any security consultations or assistance, feel free to [contact us](https://
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
+| Mantle RewardStation  |  --    |  2M    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2024-06-rewardstation/2024-06-rewardstation.md) |
+| Magpie Radpie esRDNT OFT CCIP Brdige | -- |  1M   | [📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2023-12-magpie-radpie-esrdnt-oft-ccip-bridge/2023-12-magpie-radpie-esrdnt-oft-ccip-bridge.md) |
+| Mitosis | -- |  1M    | [📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2024-02-mitosis/2024-02-mitosis.md) |
 |    Zeeknetwork  |   --   |   3   |📝|
-
 
 ## Cantina  
 
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
+|      |      |      |📝|
+
+
+## Other
+
+| Contest |High |Medium | Security Report |
+| -------- |--------| -------- | -------- |
+| Guardian defender - PariFi    |  4H    |  13M  |[📝]()|
+| Sherlock - Perennial     |  --    |  1M  |[📝]()|
 |   Goat Tech  |   1   |    3  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/goat-tech/goat-tech.md)|
 |   Yolo Games  |   --   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/yolo-games/yolo-games.md)|
 |  Arcade.xyz   |   --   |    2  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|

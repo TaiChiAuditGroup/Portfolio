@@ -7,6 +7,7 @@
 |M-02 |Bid Amount Sent to Auction Contract Owner in claimAuction Function Instead of NFT Owner  |
 |M-03 |Auction winner could cause DOS in auctionDemo#claimAuction  |
 |M-04 |AuctionDemo.sol Allows Bidding After Auction Ends resulting in loss of user's ether  |
+|M-05 | Artist's signature can be forged|
 |L-01| the keyhash used to requestRandomWords is set to Goerli Network instead of Ethereum Mainnet|
 |L-02| addRandomizer function accepts any arbitray address as the randomizer contract|
 |L-03| randomPool#getWord function return the same value for id == 0 and 1|
@@ -573,7 +574,7 @@ This test requires a ```Base.t.sol``` file: https://gist.github.com/sashik-eth/a
 Consider transferring NFT to the winner's address using the ERC721.transferFrom function instead of the ERC721.safeTransferFrom, this would not allow the auction winner to block claimAuction function.
 
 
-## [M-03]  AuctionDemo.sol Allows Bidding After Auction Ends resulting in loss of user's ether 
+## [M-04]  AuctionDemo.sol Allows Bidding After Auction Ends resulting in loss of user's ether 
 
 ## Vulnerability details
 The ```AuctionDemo.sol``` contract allows users to continue placing bids on an NFT even after the auction has officially ended and the NFT has been claimed by the highest bidder when ```block.timestamp == minter.getAuctionEndTime(tokenId)```. This issue can lead to several adverse consequences, including users losing their Ether without a way to cancel their bids.
@@ -662,6 +663,42 @@ function participateToAuction(uint256 _tokenid) public payable {
 }
 ```
 
+
+## [M-05]  Artist's signature can be forged 
+
+## Vulnerability details
+### Impact
+In NextGen, artists can sign their collections with a string. However, two critical invariants do not always hold in current implementation:
+
+1. Once a signature is added, it must remain immutable.
+2. The artistsSignatures should only be signed by the collectionArtistAddress.
+### Proof of Concept
+https://github.com/code-423n4/2023-10-nextgen/blob/8b518196629faa37eae39736837b24926fd3c07c/smart-contracts/NextGenCore.sol#L149
+
+```
+In NextGen, artists can sign their collections with a string. However, two critical invariants do not always hold in current implementation:
+
+Once a signature is added, it must remain immutable.
+The artistsSignatures should only be signed by the collectionArtistAddress.
+```
+
+As the second if else branch suggests, collectionArtistAddress should only be modifiable when artistSigned is false. However, a bad collection admin can do the following to bypass the check:
+
+1. Call setCollectionData with {_collectionArtistAddress: badAdmin, _collectionTotalSupply: 0}
+2. Call artistSignature with {_signature: fakeSignature}
+3. Call setCollectionData with {_collectionArtistAddress: realArtist, _collectionTotalSupply: realSupply}
+
+In the third step, since collectionTotalSupply is zero, the artistSigned[_collectionID] == false will not be checked, which means:
+1. _collectionArtistAddress can be changed to the real artist's address even after the bad collection admin already signed it.
+2. The collection is not actually signed by the artist, but by the bad collection admin.
+
+## Recommended Mitigation Steps
+```
+function setCollectionData(uint256 _collectionID, address _collectionArtistAddress, uint256 _maxCollectionPurchases, uint256 _collectionTotalSupply, uint _setFinalSupplyTimeAfterMint) public CollectionAdminRequired(_collectionID, this.setCollectionData.selector) {
+    require(_collectionTotalSupply > 0);
+    ......
+}
+```
 
 ## [L-01] the `keyhash` used to requestRandomWords is set to Goerli Network instead of Ethereum Mainnet
 

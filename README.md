@@ -76,8 +76,8 @@ For any security consultations or assistance, feel free to [contact us](https://
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
 | The Standard  |--| 2M | 📝|
-|   TempleGold   |  1    |  --    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/temple-gold/temple-gold.md)|
-|   Tadle   |  4    |  2    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/tadle/tadle.md)|
+|   TempleGold   |  1H    |  --    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/temple-gold/temple-gold.md)|
+|   Tadle   |  4H    |  2M    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/tadle/tadle.md)|
 
 
 ## Secure3  
@@ -88,7 +88,7 @@ For any security consultations or assistance, feel free to [contact us](https://
 | Mantle RewardStation  |  --    |  2M    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2024-06-rewardstation/2024-06-rewardstation.md) |
 | Magpie Radpie esRDNT OFT CCIP Brdige | -- |  1M   | [📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2023-12-magpie-radpie-esrdnt-oft-ccip-bridge/2023-12-magpie-radpie-esrdnt-oft-ccip-bridge.md) |
 | Mitosis | -- |  1M    | [📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Secure3/2024-02-mitosis/2024-02-mitosis.md) |
-|    Zeeknetwork  |   --   |   3   |📝|
+|    Zeeknetwork  |   --   |   3M   |📝|
 
 ## Cantina  
 

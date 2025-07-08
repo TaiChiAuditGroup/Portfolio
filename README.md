@@ -27,8 +27,8 @@ For any security consultations or assistance, feel free to [contact us](https://
 # Competitive Audit Platforms Achievements
 
 ## ✨ Summary ✨
-### Total : 60+  competitions 
-### 60+ High 75+ Medium 
+### Total : 70+  audits 
+### 70+ High 100+ Medium 
 
 ## Code4rena 
 

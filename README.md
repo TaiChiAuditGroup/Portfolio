@@ -19,19 +19,20 @@ For any security consultations or assistance, feel free to [contact us](https://
 |🥇 1st place   🥇      | Zeeknetwork           | 
 | 🥈2nd place     🥈    | [Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)s  |
 | 🥈2nd place     🥈    | [Usual Pegasus Contest]((https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard))       |
+| 🥉3rd place     🥉    | [Cabal Liquid Staking Token]((https://code4rena.com/audits/2025-04-cabal-liquid-staking-token))       |
 
 
 # Competitive Audit Platforms Achievements
 
 ## ✨ Summary ✨
 ### Total : 60+  competitions 
-### 56+ High 75+ Medium 
-
+### 60+ High 75+ Medium 
 
 ## Code4rena 
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- | 
+|2025-04-cabal|1H|--|[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Code4rena/2025-04-cabal/2025-04-cabal.md)|
 |2024-07-munchables|1H|--|[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Code4rena/2024-07-munchables/2024-07-munchables.md)|
 |2024-07-optimism|1H|--|[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Code4rena/2024-07-optimism/2024-07-optimism.md)|
 |2024-07-traitforge|2H|5M|[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Code4rena/2024-07-traitforge/2024-07-traitforge.md)|
@@ -79,9 +80,8 @@ For any security consultations or assistance, feel free to [contact us](https://
 |   Tadle   |  4    |  2    |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/CodeHawks/tadle/tadle.md)|
 
 
-
-
 ## Secure3  
+
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
@@ -95,30 +95,32 @@ For any security consultations or assistance, feel free to [contact us](https://
 
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
-|      |      |      |📝|
-
+| Goat Tech | 1H | 3M |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/goat-tech/goat-tech.md)|
+| Yolo Games | -- | 1M |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/yolo-games/yolo-games.md)|
+| Arcade.xyz | -- | 2M |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|
+| Pegasus Usual | -- | 1M |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/pegasus-usual/pegasus-usual.md)|
 
 ## Other
 
+
 | Contest |High |Medium | Security Report |
 | -------- |--------| -------- | -------- |
-| Guardian defender - PariFi    |  4H    |  13M  |[📝]()|
-| Sherlock - Perennial     |  --    |  1M  |[📝]()|
-|   Goat Tech  |   1   |    3  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/goat-tech/goat-tech.md)|
-|   Yolo Games  |   --   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/yolo-games/yolo-games.md)|
-|  Arcade.xyz   |   --   |    2  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/arcade-xyz/arcade-xyz.md)|
-|  Pegasus Usual   |   --   |    1  |[📝](https://github.com/TaiChiAuditGroup/Portfolio/blob/main/Cantina/pegasus-usual/pegasus-usual.md)|
+| Guardian defender - PariFi    |  4H    |  13M  |  |
+| Sherlock - Perennial     |  --    |  1M  |  |
 
+#  CTF Achievements
 
-#  CTF (Capture the Flag) Achievements
 
 | **CTF Name**                          | **Rank**                                           |
 | -------------------------------------- | -------------------------------------------------- |
-| OnlyPwner                              | Rank **#1**, **#4**, **#11** with all problems solved |
+| Remedy (Hexens) CTF 2025                             | Rank **#7**|
+| Blaz (Fuzzland) CTF 2024                             | Rank **#4**|
 | OpenZeppelin Ethernaut CTF 2024         | Rank **#9**                                        |
 | 0xhacked & OtterSec CTF                | Rank **#2** with all problems solved               |
 | Curta Cup in Istanbul                  | Rank **#1** with all problems solved               |
 | Paradigm CTF 2023                      | Rank **#11**                                       |
-| MEV-Share CTF organized by Flashbots   | Rank **#20** with all problems solved              |
+| Blaz (Fuzzland) CTF 2023                             | Rank **#4**|
+| Secureum RACE #37                      | Rank **#1**                                        |
+| Secureum RACE #42                      | Rank **#2**                                        |
 | Secureum RACE #20                      | Rank **#2**                                        |
 | Secureum RACE #27                      | Rank **#3**                                        |

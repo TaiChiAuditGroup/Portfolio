@@ -15,11 +15,11 @@ For any security consultations or assistance, feel free to [contact us](https://
 |🥇  1st place 🥇      | [ZKsync Era ](https://code4rena.com/audits/2023-10-zksync-era)        |
 | 🥇1st place   🥇      |  [Maia DAO ](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)       |     |
 | 🥇1st place   🥇      | [Arbitrum BoLD](https://code4rena.com/audits/2024-05-arbitrum-bold)       | 
-| 🥇1st place    🥇     | [Arcadexyz ]((https://x.com/cantinaxyz/status/1780354738040541307))             | 
+| 🥇1st place    🥇     | [Arcadexyz ](https://x.com/cantinaxyz/status/1780354738040541307)            | 
 |🥇 1st place   🥇      | Zeeknetwork           | 
-| 🥈2nd place     🥈    | [Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)s  |
-| 🥈2nd place     🥈    | [Usual Pegasus Contest]((https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard))       |
-| 🥉3rd place     🥉    | [Cabal Liquid Staking Token]((https://code4rena.com/audits/2025-04-cabal-liquid-staking-token))       |
+| 🥈2nd place     🥈    | [Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-routers) |
+| 🥈2nd place     🥈    | [Usual Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)       |
+| 🥉3rd place     🥉    | [Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token))      |
 
 
 # Competitive Audit Platforms Achievements

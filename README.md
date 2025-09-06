@@ -12,17 +12,27 @@ For any security consultations or assistance, feel free to [contact us](https://
 
 |  Ranking | Contest                    
 |-------------------|----------------------------------|
-|🥇  1st place 🥇      | [ZKsync Era ](https://code4rena.com/audits/2023-10-zksync-era)        |
-| 🥇1st place   🥇      |  [Maia DAO ](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)       |     |
-| 🥇1st place   🥇      | [Arbitrum BoLD](https://code4rena.com/audits/2024-05-arbitrum-bold)       | 
-| 🥇1st place    🥇     | [Arcadexyz ](https://x.com/cantinaxyz/status/1780354738040541307)            |
-| 🥇1st place    🥇     | [Coinbase SpendPermisson](https://cantina.xyz/competitions/6837e02a-0a87-4577-a047-4e1ea71cff01/leaderboard)           |
-| 🥇1st place    🥇     | [OneWorld](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)           |
-| 🥈2nd place     🥈    | [Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-routers) |
-| 🥈2nd place     🥈    | [Usual Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)       |
-| 🥉3rd place     🥉    | [Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)      |
-| 🥉3rd place     🥉    | [Coinbase 7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf/leaderboard)      |
-| 🥉3rd place     🥉    | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/leaderboard)      |
+|🥇  1st place 🥇      | [Code4rena-ZKsync Era ](https://code4rena.com/audits/2023-10-zksync-era)        |
+| 🥇1st place   🥇      |  [Code4rena-Maia DAO ](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)       |     |
+| 🥇1st place   🥇      | [Code4rena-Arbitrum BoLD](https://code4rena.com/audits/2024-05-arbitrum-bold)       | 
+| 🥇1st place    🥇     | [Cantina-Arcadexyz ](https://x.com/cantinaxyz/status/1780354738040541307)            |
+| 🥇1st place    🥇     | [Cantina-Coinbase SpendPermisson](https://cantina.xyz/competitions/6837e02a-0a87-4577-a047-4e1ea71cff01/leaderboard)           |
+| 🥇1st place    🥇     | [CodeHawks-OneWorld](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)           |
+| 🥇1st place    🥇     | Secure3-Apex           |
+| 🥇1st place    🥇     | Secure3-HashKey Staking           |
+| 🥇1st place    🥇     | Secure3-AdamDeFi           |
+| 🥇1st place    🥇     | Secure3-PacArb           |
+| 🥇1st place    🥇     | Secure3-Xstar           |
+| 🥇1st place    🥇     | Secure3-Zeek           |
+| 🥈2nd place     🥈    | [Code4rena-Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-routers) |
+| 🥈2nd place     🥈    | [Cantina-Usual Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)       |
+| 🥈2nd place     🥈    | Secure3-Soex       |
+| 🥈2nd place     🥈    | Secure3-Lagrange      |
+| 🥈2nd place     🥈    | Secure3-Tevaera      |
+| 🥈2nd place     🥈    | Secure3-jojo      |
+| 🥉3rd place     🥉    | [Code4rena-Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)      |
+| 🥉3rd place     🥉    | [Cantina-Coinbase 7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf/leaderboard)      |
+| 🥉3rd place     🥉    | [Cantina-Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/leaderboard)      |
 
 # Competitive Audit Platforms Achievements
 

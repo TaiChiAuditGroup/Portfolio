@@ -128,80 +128,14 @@ For any security consultations or assistance, feel free to [contact us](https://
 |  Ranking | Contest                    |
 |-------------------|----------------------------------|
 | 🥈2nd place     🥈    | [hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |
-
-## Internal Audit
-- BlockBolt
-- Haedal
-- MSafe
-- Merkle
-- Seapad
-- Supra VRF
-- CETUS Vesting
-- Amnis Finance
-- Scallop Token
-- BAPTSWAP
-- Sudo Finance
-- Scallop - Borrow Incentive
-- KriyaDex - Cetus Lp Vault
-- Suigallerie Network
-- JumpTrade
-- Interest Protocol
-- Sparkling Finance
-- Cetus Limit Order
-- Sparkling Finance
-- Suigallerie Network
-- ZIPTOS
-- Echo Lending
-- Joule MM
-- Pinata
-- AGDEX
-- Unihouse
-- Traders.tech
-- BIRDS
-- Moar
-- Interest Protocol
-- Mereo
-- LayerBank
-- Pell Network
-- HyperFluid
-- Undying City
-- Echo Protocol LSD
-- Haedal Protocol
-- Lombard Finance
-- FanTV
-- Aptables
-- MoveFun
-- Arche Protocol
-- Redstone
-- HyperFluid2
-- Echo Protocol
-- Hyperion
-- Cellana
-- Joule Finance
-- Amnis
-- Interest Protocol
-- Haedal2
-- LayerBank
-- Auro Finance
-- EthosX
-- Hawal
-- Realize
-- Interest Protocol2
-- PicWe
-- Solido
-- MMT Finance
-- Scallop
-- Haedal3
-- Typus Pool
-- Avalon Finance
-- Nemo Protocol
-- Henry
-- Avalon Finance
-- Solido
+| 🥉3rd place     🥉    | [C4 - Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token) |
+| 5th place     | [hackenproof - SuiDEX](https://hackenproof.com/audit-programs/suidex-audit-contest) |
 
 ## Bug bounty
 Rank #7 [Sui bug bounty](https://hackenproof.com/programs/sui-protocol?tab=hackers&page=2)
 
+## Internal audits
+Two team members are experienced move auditors who had conducted ~80 move audits combined at top move audit firm.
 
 #  CTF Achievements
 

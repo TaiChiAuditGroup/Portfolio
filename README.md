@@ -24,6 +24,8 @@ For any security consultations or assistance, feel free to [contact us](https://
 | 🥇1st place    🥇     | Secure3-PacArb           |
 | 🥇1st place    🥇     | Secure3-Xstar           |
 | 🥇1st place    🥇     | Secure3-Zeek           |
+| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update           |
+| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update2           |
 | 🥈2nd place     🥈    | [Code4rena-Ebtc Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-routers) |
 | 🥈2nd place     🥈    | [Cantina-Usual Pegasus Contest](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340/leaderboard)       |
 | 🥈2nd place     🥈    | Secure3-Soex       |
@@ -120,6 +122,87 @@ For any security consultations or assistance, feel free to [contact us](https://
 | Guardian defender - PariFi    |  4H    |  13M  |  |
 | Sherlock - Perennial     |  --    |  1M  |  |
 
+
+# Move Audits
+## Move contest
+|  Ranking | Contest                    |
+|-------------------|----------------------------------|
+| 🥈2nd place     🥈    | [hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |
+
+## Internal Audit
+- BlockBolt
+- Haedal
+- MSafe
+- Merkle
+- Seapad
+- Supra VRF
+- CETUS Vesting
+- Amnis Finance
+- Scallop Token
+- BAPTSWAP
+- Sudo Finance
+- Scallop - Borrow Incentive
+- KriyaDex - Cetus Lp Vault
+- Suigallerie Network
+- JumpTrade
+- Interest Protocol
+- Sparkling Finance
+- Cetus Limit Order
+- Sparkling Finance
+- Suigallerie Network
+- ZIPTOS
+- Echo Lending
+- Joule MM
+- Pinata
+- AGDEX
+- Unihouse
+- Traders.tech
+- BIRDS
+- Moar
+- Interest Protocol
+- Mereo
+- LayerBank
+- Pell Network
+- HyperFluid
+- Undying City
+- Echo Protocol LSD
+- Haedal Protocol
+- Lombard Finance
+- FanTV
+- Aptables
+- MoveFun
+- Arche Protocol
+- Redstone
+- HyperFluid2
+- Echo Protocol
+- Hyperion
+- Cellana
+- Joule Finance
+- Amnis
+- Interest Protocol
+- Haedal2
+- LayerBank
+- Auro Finance
+- EthosX
+- Hawal
+- Realize
+- Interest Protocol2
+- PicWe
+- Solido
+- MMT Finance
+- Scallop
+- Haedal3
+- Typus Pool
+- Avalon Finance
+- Nemo Protocol
+- Henry
+- Avalon Finance
+- Solido
+
+## Bug bounty
+Rank #7 [Sui bug bounty](https://hackenproof.com/programs/sui-protocol?tab=hackers&page=2)
+
+
 #  CTF Achievements
 
 
@@ -136,3 +219,10 @@ For any security consultations or assistance, feel free to [contact us](https://
 | Secureum RACE #42                      | Rank **#2**                                        |
 | Secureum RACE #20                      | Rank **#2**                                        |
 | Secureum RACE #27                      | Rank **#3**                                        |
+
+# Bug bounty
+
+| **Project** | **Severity** | **Status** | **Platform** |
+| ------------- | ------------| ------------ | ------------ | 
+| Gala Game| High| Paid| Immunefi |
+| injective | Critical | Duplicated | Immunefi |

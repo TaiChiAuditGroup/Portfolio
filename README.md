@@ -32,6 +32,7 @@ For any security consultations or assistance, feel free to [contact us](https://
 | 🥈2nd place     🥈    | Secure3-Lagrange      |
 | 🥈2nd place     🥈    | Secure3-Tevaera      |
 | 🥈2nd place     🥈    | Secure3-jojo      |
+| 🥈2nd place     🥈    | [Hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |
 | 🥉3rd place     🥉    | [Code4rena-Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)      |
 | 🥉3rd place     🥉    | [Cantina-Coinbase 7702Proxy](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf/leaderboard)      |
 | 🥉3rd place     🥉    | [Cantina-Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/leaderboard)      |
@@ -158,5 +159,8 @@ Two team members are experienced move auditors who had conducted ~80 move audits
 
 | **Project** | **Severity** | **Status** | **Platform** |
 | ------------- | ------------| ------------ | ------------ | 
-| Gala Game| High| Paid| Immunefi |
-| injective | Critical | Duplicated | Immunefi |
+| injective   | 1 Critical | Duplicated | Immunefi |
+| Gala Game   | 1 High    | Paid | Immunefi |
+|Sui        | 2 low     | Paid | Hackenproof|
+|BLOFWM      |1 low     | Paid | Hackenproof|
+|Plisio      |1 low     | Paid | Hackenproof|

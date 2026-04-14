@@ -43,7 +43,7 @@ For any security consultations or assistance, feel free to [contact us](https://
 ### Total : 70+  audits 
 ### 70+ High 100+ Medium 
 
-## Support Our Work
+# Support Our Work
 Support us on Giveth: https://giveth.io/project/taichi-shield:-web3-security-audits
 
 ## Code4rena 
